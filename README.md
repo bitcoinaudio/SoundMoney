@@ -30,7 +30,7 @@ The Genesis Block's Merkle Root!
 
 
 Hal's Block Merkle Root!
-## Track 3 Hal's Block - [7dac2c5666815c17a3b36427de37bb9d2e2c5ccec3f8633eb91a4205cb4c10ff ](https://soundcloud.com/user-326927854/)
+## Track 3 Hal's Block - [7dac2c5666815c17a3b36427de37bb9d2e2c5ccec3f8633eb91a4205cb4c10ff ](https://soundcloud.com/user-326927854/hals-block)
 ### Enter these values into the [NK-Lite](https://bitcoinaudio.github.io/). Try with any instrument!
 
 `{
